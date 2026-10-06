@@ -1,0 +1,17 @@
+# Kiruna
+
+A completely useless tool for accessing database information.
+
+## Supported SQL Dialects
+
+### PostgreSQL
+
+PostgreSQL can be considered the native dialect supported by Kiruna.
+
+### SQLite
+
+SQLite support is here to keep me from being too lazy.
+
+## AI Notice
+
+Built without any AI involvement.
